@@ -16,7 +16,7 @@ This end-to-end analytics project analyzes **3,900+ retail transaction records**
 ---
 
 ## 📊 Power BI KPI Dashboard
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](images/Dashboard.png)
 ---
 
 ## 🛠️ Tech Stack & Workflow
